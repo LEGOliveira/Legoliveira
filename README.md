@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Sou um desenvolvedor **Fullstack** com **1 ano de experiência**, construindo minhas habilidades através de **projetos pessoais** e **trabalhos freelancer**. Tenho foco em Java no backend e estou sempre buscando evoluir e aprender novas tecnologias.
+Sou um desenvolvedor **Fullstack** com **3 ano de experiência**, construindo minhas habilidades através de **projetos pessoais** e **trabalhos freelancer**. Tenho foco em Java no backend e estou sempre buscando evoluir e aprender novas tecnologias.
 
 - 🌱 Atualmente aprimorando minhas habilidades em desenvolvimento Fullstack
 - 💼 Experiência com **freelancing** e **projetos pessoais**
